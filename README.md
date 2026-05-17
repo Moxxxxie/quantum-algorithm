@@ -1,2 +1,2 @@
-# quantum-algorithm
-Quantum Computation and Information
+# Quantum-Qlgorithm
+From Quantum Computation and Information Class
